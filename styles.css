@@ -1460,3 +1460,8 @@ footer {
   font-size: 0.9rem;
   align-self: center;
 }
+
+.coa-introduction {
+  width: 150px;
+  height: auto;
+}
